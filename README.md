@@ -22,16 +22,17 @@ End the program
 #### Developed by B KRISHNAKANTH
 #### Reference number : 23006762
 ```python
-n1=int(input())
-n2=int(input())
-n1=temp
-n1=n2
-n2=temp
-print(a,b)
+a=float(input())
+b=float(input())
+c=a
+a=b
+b=c
+print('Swapped values are:',a,b)
 ```
 ## OUTPUT:
 
-![Screenshot 2023-10-24 155512](https://github.com/Krishnakanth23006762/Swapping-two-values/assets/138849446/54f5a4bb-c964-4f7c-a517-0c691372f3bf)
+![image](https://github.com/Krishnakanth23006762/Swapping-two-values/assets/138849446/b12fe330-b673-4419-80c3-45aadee21462)
+
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
